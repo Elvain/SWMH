@@ -41277,9 +41277,6 @@ e_arabia = {
 				b_tida = {}
 				b_rashid = {}
 				b_alshirak = {}
-				b_hermopolis = {}
-				b_rosetta = {}
-				b_sais = {}
 			}
 			c_delta = {
 				color={ 9 255 80 }
@@ -41300,13 +41297,6 @@ e_arabia = {
 				b_ushmuntan = {}
 				b_tinis = {}
 				b_faqus = {}
-				b_pelusia = {}
-				b_alsalihiyah = {}
-				b_sile = {}
-				b_ismaillia = {}
-				b_said = {}
-				b_pithom = {}
-				b_serapeum = {}
 			}
 			c_bilbays = {
 				color={ 9 250 83 }
@@ -41318,11 +41308,6 @@ e_arabia = {
 				b_abbasiya= {}
 				b_banha = {}
 				b_samannud = {}
-			}
-			c_butanya = {
-				color={ 6 255 77 }
-				color2={ 255 255 255 }
-				
 			}
 		}
 		d_cairo = {
